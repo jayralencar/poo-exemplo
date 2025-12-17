@@ -1,6 +1,6 @@
-from src.pessoa import Pessoa
+from src.estudante import Estudante
 
-p = Pessoa.from_dict({
+p = Estudante.from_dict({
     "nome": "Jayr",
     "email": "jayr.pereira@ufca.edu.br",
     "telefone": "889881232"
