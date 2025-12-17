@@ -6,4 +6,4 @@ p = Estudante.from_dict({
     "telefone": "889881232"
 })
 
-print(p.nome)
+print("Meu nome é ", p.nome)
